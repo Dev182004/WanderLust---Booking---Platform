@@ -4,6 +4,9 @@ Wanderlust is a full-stack accommodation booking web application inspired by Air
 This is my **first full-stack project**, built using Node.js, Express, EJS templating, and MongoDB.  
 Users can browse listings, view details, create listings, and add reviews.
 
+## 🚀 Live Demo
+Website URL : https://wanderlust-booking-platform-77pe.onrender.com/listings
+
 ## 🛠 Tech Stack
 **Frontend:**
 - HTML
